@@ -5,7 +5,7 @@
 	<groupId>ScreenShotInSelenium</groupId>
 	<artifactId>ScreenShotInSelenium</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+//All files should be the latest one , no files should be outadated.
 
 	<dependencies>
 		<dependency>
