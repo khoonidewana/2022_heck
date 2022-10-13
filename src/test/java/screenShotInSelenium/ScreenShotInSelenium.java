@@ -21,6 +21,7 @@ public class ScreenShotInSelenium {
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 		driver.findElement(By.id("txtUsername")).sendKeys("Admin");
 		driver.findElement(By.id("txtPassword123")).sendKeys("admin123");
+		driver.quit();
 	}
 
 	@AfterMethod
